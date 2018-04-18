@@ -3,4 +3,4 @@
  
  Replace API key in line 7 of header
  
- run using python opswat.py samplefile.txt
+ run using: python opswat.py samplefile.txt
